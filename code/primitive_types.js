@@ -1,0 +1,7 @@
+console.log(typeof "hello world")
+console.log(typeof 1)
+console.log(typeof false)
+console.log(typeof 42n)
+console.log(typeof Symbol())
+console.log(typeof null)
+console.log(typeof undefined)
