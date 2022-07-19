@@ -10,3 +10,4 @@ console.log(
     Math.max(...arr),
     Math.max.apply(null, arr)
 )
+
